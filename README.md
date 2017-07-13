@@ -1,5 +1,5 @@
 # LifeTraffic
-LifeTraffic manage the IA(alias npc) based the Time and Weather<br/>
+LifeTraffic manage the IA(alias npc/train/vehicle/parked/scenario) based the Time and Weather<br/>
 Manage with :<br/>
 - Night<br/>
 - Day<br/>
